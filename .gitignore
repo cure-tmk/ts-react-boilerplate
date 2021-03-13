@@ -1,0 +1,9 @@
+# project
+node_modules/
+dist/
+
+# logs
+**/*.log
+
+# macos
+.DS_Store
